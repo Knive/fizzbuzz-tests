@@ -1,0 +1,10 @@
+{
+  "name": "fizzbuzz-tests",
+  "packageManager": "yarn@3.2.4",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.2.2"
+  }
+}
